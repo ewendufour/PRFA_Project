@@ -6,8 +6,9 @@ You can build my project using make.
 In the Rocq files, there a are comments of the form (* ex x.y.z *) for every question x.y.z,
 except for formalization exercices where the comments are of the form (* Lemma / Theorem n *).
 
-You will find in this files comments where I really stuggled to prove lemmas and also where I needed help.
 <!--
+You will find in this files comments where I really stuggled to prove lemmas and also where I needed help.
+
 # ## Who did I discussed the project with
 #
 # Mostly, I discussed the project with Travis LEBLANC. He helped me getting the intuition behind some proofs.
