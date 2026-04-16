@@ -7,7 +7,7 @@ In the Rocq files, there a are comments of the form (* ex x.y.z *) for every que
 except for formalization exercices where the comments are of the form (* Lemma / Theorem n *).
 
 You will find in this files comments where I really stuggled to prove lemmas and also where I needed help.
-
+<!--
 # ## Who did I discussed the project with
 #
 # Mostly, I discussed the project with Travis LEBLANC. He helped me getting the intuition behind some proofs.
@@ -30,7 +30,7 @@ You will find in this files comments where I really stuggled to prove lemmas and
 #
 # I prefer to apply hypothesis instead of using assumption, I find this process much clearer.
 # I usually let rocq name things for me because I'm terrible at finding proper names.
-#
+# -->
 
 
 
